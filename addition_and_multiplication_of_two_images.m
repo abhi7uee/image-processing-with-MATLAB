@@ -1,4 +1,4 @@
-Program to illustrate the addition and multiplication of two images.
+% Program to illustrate the addition and multiplication of two images.
 clear all;
 close all;
 i=imread('C:\Users\student.researchlab-HP\Desktop\DSIP-lab\imagesblack.jpg');
